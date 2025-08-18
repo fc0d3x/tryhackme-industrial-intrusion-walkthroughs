@@ -6,7 +6,7 @@ This repository contains the solution to the "Cipher" challenge from TryHackMe, 
 
 ## Challenge Breakdown
 
-###Objective
+### Objective
 
 The goal was to decrypt the second packet of telemetry traffic (cipher2.bin) and reveal the hidden sabotage command containing the flag. The data was encrypted using AES-GCM with a shared 16-byte nonce.
 
