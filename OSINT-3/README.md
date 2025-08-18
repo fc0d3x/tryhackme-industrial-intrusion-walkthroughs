@@ -28,7 +28,7 @@ After retrieving the PGP key, I analyzed the metadata. The key was signed under 
 
 Hidden Message in Metadata:
 
-### ```css THM{hope_this_k3y_doesnt_le4d_t0_m3}```
+### THM{hope_this_k3y_doesnt_le4d_t0_m3}
 This flag was intentionally embedded by the threat actor in the PGP key's comment field.
 
 ### Lessons Learned
